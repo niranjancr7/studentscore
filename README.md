@@ -36,6 +36,9 @@ examGrading.submitScore(pupilAddress, 85);
 // Attempting to submit a score again for the same pupil will result in an error.
 examGrading.submitScore(pupilAddress, 90); // Error: "Score already submitted for the pupil"
 ```
+## Author
+Niranjan D N
+dnniranjan97@gmail.com
 
 ## License
 
